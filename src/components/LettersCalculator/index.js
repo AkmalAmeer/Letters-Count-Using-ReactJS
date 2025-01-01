@@ -28,7 +28,7 @@ class LettersCalculator extends Component {
             placeholder="Enter the phrase"
             onChange={this.onChangeInput}
           />
-          <p className="letters-count">No. of letters: {lettersCount}</p>
+          <p className="letters-count">No.of letters: {lettersCount}</p>
         </div>
         <img
           src="https://assets.ccbp.in/frontend/react-js/stop-watch-with-calculator-img.png"
